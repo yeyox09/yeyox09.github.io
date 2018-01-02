@@ -1,0 +1,16 @@
+/*
+Estilos principales
+*/
+
+@font-face {
+    font-family: maquina_escribir;
+    src: url('fonts/TravelingTypewriter.ttf');
+}
+
+body {
+    font-family: maquina_escribir;
+    background-color: black;
+    color: skyblue;
+    margin-left: 2%;
+    margin-right: 2%;
+}
